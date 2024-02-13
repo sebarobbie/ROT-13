@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ROT 13 SEBASTIAN/1.0.0": {
+        "runtime": {
+          "ROT 13 SEBASTIAN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROT 13 SEBASTIAN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

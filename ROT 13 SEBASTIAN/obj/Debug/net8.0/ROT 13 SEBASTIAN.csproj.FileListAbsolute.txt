@@ -1,0 +1,14 @@
+D:\Coding\ROT 13 SEBASTIAN\bin\Debug\net8.0\ROT 13 SEBASTIAN.exe
+D:\Coding\ROT 13 SEBASTIAN\bin\Debug\net8.0\ROT 13 SEBASTIAN.deps.json
+D:\Coding\ROT 13 SEBASTIAN\bin\Debug\net8.0\ROT 13 SEBASTIAN.runtimeconfig.json
+D:\Coding\ROT 13 SEBASTIAN\bin\Debug\net8.0\ROT 13 SEBASTIAN.dll
+D:\Coding\ROT 13 SEBASTIAN\bin\Debug\net8.0\ROT 13 SEBASTIAN.pdb
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.AssemblyInfoInputs.cache
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.AssemblyInfo.cs
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.csproj.CoreCompileInputs.cache
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.dll
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\refint\ROT 13 SEBASTIAN.dll
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.pdb
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ROT 13 SEBASTIAN.genruntimeconfig.cache
+D:\Coding\ROT 13 SEBASTIAN\obj\Debug\net8.0\ref\ROT 13 SEBASTIAN.dll
